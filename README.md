@@ -20,5 +20,5 @@
       <br>
    </p>
 
-   ![stats](https://github-readme-stats.vercel.app/api/?username=sysy1013&show_owner=false&show_icons=true&theme=radical&hide_border=true&hide_rank=false&count_private=true&include_all_commits=true)
+   ![stats](https://github-readme-stats.vercel.app/api/?username=mogamogua&show_owner=false&show_icons=true&theme=radical&hide_border=true&hide_rank=false&count_private=true&include_all_commits=true)
 
