@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Recoil-66ddd2?style=flat-square&logo=react&logoColor=white">
+
     <br>
    </p>
    <div align=center><h1>⚒ TOOLS</h1></div>
