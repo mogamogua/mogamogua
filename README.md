@@ -22,3 +22,4 @@
 
    ![stats](https://github-readme-stats.vercel.app/api/?username=mogamogua&show_owner=false&show_icons=true&theme=radical&hide_border=true&hide_rank=false&count_private=true&include_all_commits=true)
 
+<a href="https://opgc.me/#/users/mogamogua" target="_blank"><img src="https://api.opgc.me/githubs/users/mogamogua/tag/?theme=basic" /></a>
